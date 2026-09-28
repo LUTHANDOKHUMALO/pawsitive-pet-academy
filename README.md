@@ -16,14 +16,6 @@ A native Android app that lets clients browse pet training and care courses, cal
 - **Build system:** Gradle (Kotlin DSL)
 - **IDE:** Android Studio
 
-## Getting Started
-
-### Prerequisites
-
-- [Android Studio](https://developer.android.com/studio) (latest stable version)
-- Android SDK installed via the SDK Manager
-- An emulator or a physical Android device
-
 ### Run the app
 
 1. Clone the repository:
@@ -47,7 +39,3 @@ pawsitive-pet-academy/
 └── settings.gradle.kts   # Project settings
 ```
 
-## Author
-
-**Luthando Khumalo**
-[GitHub](https://github.com/LUTHANDOKHUMALO)
