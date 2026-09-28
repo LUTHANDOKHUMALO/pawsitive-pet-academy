@@ -24,7 +24,7 @@ A native Android app that lets clients browse pet training and care courses, cal
    ```
 2. Open the project in Android Studio.
 3. Wait for Gradle to sync.
-4. Select a device or emulator and click **Run ▶**.
+4. Select a device or emulator and click 
 
 ## Project Structure
 
